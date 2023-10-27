@@ -8,7 +8,8 @@
 
 - 👨‍🎓 I have a Bachelor's degree in Computer Science.
 - 🔭 I have worked as a research assistant @<a href="https://www.senecacollege.ca/innovation/research.html">Seneca Innovation</a>.
-- 💬 Ask me about **NLP**, **Data Science** and **Software Development**.
+- 💬 Ask me about<br/>
+**NLP**, **Data Science** and **Software Development**.
 - 📫 How to reach me? **chhaganimahima@gmail.com**<br/>
 
 - 😄 Pronouns: She/Her
