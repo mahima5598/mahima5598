@@ -2,18 +2,19 @@
 
 ### Aspiring Machine Learning Engineer 
 
-<img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fgifs%2Fscaler-official-computer-laptop-hello-world-hpXdHPfFI5wTABdDx9&psig=AOvVaw1WKynk-np6iMrLnCtZ6LFr&ust=1698430367803000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKjA3qeolIIDFQAAAAAdAAAAABAz"/>
+<img align="right" alt="Coding" width="400" src="https://giphy.com/embed/hpXdHPfFI5wTABdDx9" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen>
 
 ⚐ Based in Canada
 
 - 👨‍🎓 I have a Bachelor's degree in Computer Science.
-- 🔭 I have worked as a research assistant - data scientist @ <a href="https://www.senecacollege.ca/innovation/research.html">Seneca Innovation</a>
+- 🔭 I have worked as a research assistant @ <a href="https://www.senecacollege.ca/innovation/research.html">Seneca Innovation</a>
 - 💬 Ask me about NLP, Data Science and Software Development
 - 📫 How to reach me? **chhaganimahima@gmail.com**<br/>
+
 - 😄 Pronouns: She/Her
 - ⚡ Hobbies: Exploring new things and places.
 
-## 🎊 Github Languages Used
+## Github Languages Used
 <div align="center">
 <table>
 <tbody>
