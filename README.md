@@ -2,30 +2,17 @@
 
 ### Aspiring Machine Learning Engineer 
 
-<img align="right" alt="Coding" width="400" src="https://giphy.com/embed/hpXdHPfFI5wTABdDx9" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen>
+<div style="width:100%;height:0;padding-bottom:75%;position:relative;"><iframe src="https://giphy.com/embed/hpXdHPfFI5wTABdDx9" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/scaler-official-computer-laptop-hello-world-hpXdHPfFI5wTABdDx9">via GIPHY</a></p>
 
 ⚐ Based in Canada
 
 - 👨‍🎓 I have a Bachelor's degree in Computer Science.
-- 🔭 I have worked as a research assistant @ <a href="https://www.senecacollege.ca/innovation/research.html">Seneca Innovation</a>
-- 💬 Ask me about NLP, Data Science and Software Development
-- 📫 How to reach me? **chhaganimahima@gmail.com**<br/>
+- 🔭 I have worked as a research assistant @ <a href="https://www.senecacollege.ca/innovation/research.html">Seneca Innovation</a>.
+- 💬 Ask me about **NLP**, **Data Science** and **Software Development**.
+- 📫 How to reach me? **chhaganimahima@gmail.com**<br/>.
 
 - 😄 Pronouns: She/Her
 - ⚡ Hobbies: Exploring new things and places.
-
-## Github Languages Used
-<div align="center">
-<table>
-<tbody>
-<tr>
-  <td style="text-align:center"><a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahima5598&layout=compact&theme=buefy&hide_border=true" alt="Mahima's Top Languages"/></a></td>
-</tr>
-</tbody>
-</table>
-</div>
-
-<hr></hr>
 
 <h2> Connect With Me </h2>
 
