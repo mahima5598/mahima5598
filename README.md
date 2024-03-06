@@ -13,6 +13,8 @@
 
 - 😄 Pronouns: She/Her
 - ⚡ Hobbies: Exploring new things and places.
+- Portfolio: https://mahima5598.github.io/my-portfolio/
+- Newsletter: https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=7165846835213914112
 
 <h2> Connect With Me </h2>
 
