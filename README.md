@@ -7,7 +7,8 @@
 ⚐ Based in Toronto,ON
 
 - 👨‍🎓 I have a Bachelor's degree in Computer Science.
-- 🔭 I have worked as a research assistant @<a href="https://www.senecacollege.ca/innovation/research.html">Seneca Innovation</a> and on multiple freelancing projects.
+- 🔭 I worked as a research assistant @<a href="https://www.senecacollege.ca/innovation/research.html">Seneca Innovation</a> and on multiple freelancing projects.
+- Currently working as a Data Engineer at Meta (contracted by Teksystems).
 - 💬 Ask me about **NLP**, **Data Science** and **Machine Learning**.
 - 📫 How to reach me? **chhaganimahima@gmail.com**<br/>
 
