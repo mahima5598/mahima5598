@@ -1,6 +1,6 @@
 # Hello, I am Mahima👋
 
-### Machine Learning Engineer 
+### AI Engineer 
 
 <img align="right" alt="Coding" width="400" src="221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif" />
 
